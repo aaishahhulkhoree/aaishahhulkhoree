@@ -1,22 +1,19 @@
-- 👋 Hi, I’m @aaishahhulkhoree
+- Hi, I’m @aaishahhulkhoree
 
-- 👀 I’m interested in project management and enjoy working with programming languages
-- like JavaScript, HTML, CSS, C, Java, and Python.
--  I also love traveling, having visited countries such as Mauritius, Italy,
--   Spain, Switzerland, and Ireland.
--   One of my hobbies is selling clothes on Vinted, and I have a strong interest in creative hobbies
--   like sewing and playing badminton in my free time.
+-  I’m passionate about project management and love working with programming languages like JavaScript, HTML, CSS, C, Java, and Python.
+-  I enjoy traveling and have visited countries such as Mauritius, Italy, Spain, Switzerland, and Ireland.
+-    One of my hobbies is selling clothes on Vinted, and I have a strong interest in creative activities like sewing and playing badminton.
+
+  What I’m currently learning
+- I'm diving deep into computer science, exploring various topics ranging from software engineering principles to cloud computing and cybersecurity.
+- I'm enhancing my skills in JavaScript, React Native, and full-stack PHP development.
+- I'm also expanding my knowledge in advanced project management, Agile development, and risk analysis.
+- For web development, I have experience working with MongoDB, Neo4j, Mongoose, and DjangoDB.
   
-- 🌱 I’m currently learning advanced project management techniques, agile development,
--  risk analysis, and JavaScript/React Native for mobile development. I'm working on a mobile
--  weather app and improving my PHP full-stack skills.
-
-- 💞️ I’m looking to collaborate on projects related to mobile app development, innovative IT systems management projects.
--  I'm also open to opportunities in Identity Governance & Administration (IGA)
+2025 Goals
+- I aim to explore legacy programming languages such as COBOL to understand and contribute to older but still critical IT systems.
  
 - 📫 How to reach: me via email at hulkhoreea@gmail.com
-
-- 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: I love light green, enjoy creative hobbies like sewing, and I'm currently pursuing a Master's in MIAGE to become an IT project manager!
 
