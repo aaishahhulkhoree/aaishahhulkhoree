@@ -15,5 +15,5 @@
  
 - 📫 How to reach: me via email at hulkhoreea@gmail.com
 
-- ⚡ Fun fact: I love light green, enjoy creative hobbies like sewing, and I'm currently pursuing a Master's in MIAGE to become an IT project manager!
+- Fun fact: I love light green, enjoy creative hobbies like sewing, and I'm currently pursuing a Master's in MIAGE to become an IT project manager!
 
