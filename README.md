@@ -1,19 +1,46 @@
-- Hi, I’m @aaishahhulkhoree
+# 👋 Hi, I’m Aaïshah HULKHOREE
 
--  I’m passionate about project management and love working with programming languages like JavaScript, HTML, CSS, C, Java, and Python.
--  I enjoy traveling and have visited countries such as Mauritius, Italy, Spain, Switzerland, and Ireland.
--    One of my hobbies is selling clothes on Vinted, and I have a strong interest in creative activities like sewing and playing badminton.
+🎓 Master 2 MIAGE student (Information Systems & IT Project Management)  
+💡 Passionate about tech, data, digital tools & project management  
+🌍 Based in Paris | Franco-Mauritian  
 
-  What I’m currently learning
-- I'm diving deep into computer science, exploring various topics ranging from software engineering principles to cloud computing and cybersecurity.
-- I'm enhancing my skills in JavaScript, React Native, and full-stack PHP development.
-- I'm also expanding my knowledge in advanced project management, Agile development, and risk analysis.
-- For web development, I have experience working with MongoDB, Neo4j, Mongoose, and DjangoDB.
-  
-2025 Goals
-- I aim to explore legacy programming languages such as COBOL to understand and contribute to older but still critical IT systems.
- 
-- 📫 How to reach: me via email at hulkhoreea@gmail.com
+---
 
-- Fun fact: I love light green, enjoy creative hobbies like sewing, and I'm currently pursuing a Master's in MIAGE to become an IT project manager!
+## 🚀 About Me
+I’m passionate about understanding how systems work, improving processes, and building digital solutions that bring value.  
+I enjoy working on both the technical and functional sides of IT projects.
+
+I love programming with:
+- **Python**, **JavaScript**, **Java**, **HTML**, **CSS**
+- Sometimes exploring full-stack development (React Native, Node.js, MongoDB...)
+
+Beyond tech, I love **traveling** (Mauritius, Italy, Spain, Switzerland, Ireland…) and I also enjoy creative activities — sewing, badminton, and reselling clothes on Vinted.
+
+---
+
+## 📚 What I’m Currently Learning
+I'm continuously improving my technical and analytical skills through my MIAGE training and personal projects:
+
+- Advanced **software engineering**, cloud concepts, cybersecurity foundations  
+- Strengthening my skills in **JavaScript**, **React Native**, and full-stack development  
+- Exploring **data analysis**, **BI**, and **Python automation**  
+- Growing my expertise in **Agile project management**, risk analysis, and functional analysis  
+- Working with databases such as **MongoDB**, **Django ORM**, **Mongoose**, **Neo4j**
+
+---
+
+## 🎯 2025 Goals 
+- Build more full-stack, data, or automation projects  
+- Develop strong expertise in **IT project management / Business Analysis**
+
+---
+
+## 📫 How to Reach Me
+📧 Email — **hulkhoreea@gmail.com**  
+🔗 LinkedIn — **https://www.linkedin.com/in/aaishah-hulkhoree-41123728b/**
+
+---
+
+## ✨ Fun Fact
+I love light green, creative hobbies, and I'm pursuing a MIAGE degree to become a skilled **IT Project Manager / Business Analyst**!
 
