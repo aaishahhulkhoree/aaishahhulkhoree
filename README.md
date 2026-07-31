@@ -25,11 +25,11 @@ I'm continuously improving my technical and analytical skills through my MIAGE t
 - Strengthening my skills in **JavaScript**, **React Native**, and full-stack development  
 - Exploring **data analysis**, **BI**, and **Python automation**  
 - Growing my expertise in **Agile project management**, risk analysis, and functional analysis  
-- Working with databases such as **MongoDB**, **Django ORM**, **Mongoose**, **Neo4j**
+- Working with databases such as **MongoDB**, **Neo4j**
 
 ---
 
-## 🎯 2025 Goals 
+## 🎯 2026 Goals 
 - Build more full-stack, data, or automation projects  
 - Develop strong expertise in **IT project management / Business Analysis**
 
