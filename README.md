@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Aaïshah HULKHOREE
 
-🎓 Master 2 MIAGE student (Information Systems & IT Project Management)  
+🎓 Master 2 MIAGE (Information Systems & IT Project Management)  
 💡 Passionate about tech, data, digital tools & project management  
-🌍 Based in Paris | Franco-Mauritian  
+🌍 Based in Paris
 
 ---
 
@@ -42,5 +42,5 @@ I'm continuously improving my technical and analytical skills through my MIAGE t
 ---
 
 ## ✨ Fun Fact
-I love light green, creative hobbies, and I'm pursuing a MIAGE degree to become a skilled **IT Project Manager / Business Analyst**!
+I love light green, creative hobbies, and in fine I want to become a skilled **Data Analyst**!
 
